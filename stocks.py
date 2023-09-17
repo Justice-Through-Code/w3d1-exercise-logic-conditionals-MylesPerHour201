@@ -49,7 +49,7 @@ def stock_purchases():
     print(f'{client} has ${initial_invest} to invest and can buy {num_shares} shares of {stock_name} at the current price of ${stock_price}.')
 
 
-stock_purchases()
+#stock_purchases()
 
 
 
