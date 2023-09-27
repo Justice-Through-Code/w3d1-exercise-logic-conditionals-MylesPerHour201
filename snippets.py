@@ -38,7 +38,7 @@ def snippet_3():
     b = 1
     c = (a >= b)
 
-    print(f"The value of c ({c}) is True since a ({a}) is equal to b ({b}).")
+    print(f"The value of c ({c}) is True since a ({a}) is greater than or equal to b ({b}).")
     assert(c == True)  # <-- DO NOT EDIT THIS LINE
 
 
